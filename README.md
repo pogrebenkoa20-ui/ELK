@@ -6,10 +6,13 @@
 Приведите скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch. Где будет виден нестандартный cluster_name.
 <img width="845" height="651" alt="elc" src="https://github.com/user-attachments/assets/5d56f1ca-f503-4d91-b830-5349e9a3f92f" />
 .
+
 <img width="690" height="257" alt="elc status" src="https://github.com/user-attachments/assets/57a0d6ac-b3c9-44bc-bef6-3d218b2d0093" />
 .
+
 <img width="836" height="309" alt="cluster name" src="https://github.com/user-attachments/assets/92b9d0ae-2ba2-439e-af0d-a3f9465aab9c" />
 .
+
 <img width="681" height="300" alt="curl elc" src="https://github.com/user-attachments/assets/d0a80dd9-a457-455f-8b34-0e667c13eaf6" />
 
 
