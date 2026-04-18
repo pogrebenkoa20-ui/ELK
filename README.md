@@ -30,9 +30,11 @@
 <img width="819" height="492" alt="kibana status" src="https://github.com/user-attachments/assets/530dd765-a0d4-41ba-95d5-3555f7454441" />
 
 .
-<img width="1920" height="950" alt="kibana konsole" src="https://github.com/user-attachments/assets/9cd41f72-1fb9-4f7f-87dc-56efaebf95f2" />
+<img width="1918" height="952" alt="kibana konsole" src="https://github.com/user-attachments/assets/57275278-a36f-45a4-a119-2f3ef491c96a" />
+
 .
-<img width="1237" height="573" alt="kibana konsole(2)" src="https://github.com/user-attachments/assets/5b4edc12-2c03-4d43-9aaa-de74d87a7c17" />
+<img width="1920" height="951" alt="kibana konsole(2)" src="https://github.com/user-attachments/assets/474576d9-e7bf-4bac-a157-3d994053f4b0" />
+
 
 
 
