@@ -61,5 +61,12 @@
 
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.
 
-Дополнительные задания (со звёздочкой*)
-Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже шире разобраться в материале.
+<img width="749" height="170" alt="Filebeat" src="https://github.com/user-attachments/assets/e2291806-5f0b-4c50-a685-284bb52c4510" />
+.
+<img width="1918" height="951" alt="nginx-Filebeat" src="https://github.com/user-attachments/assets/efb1f24b-a554-4e5e-b70e-f6a147179364" />
+.
+<img width="1918" height="595" alt="nginx-Filebeat (2)" src="https://github.com/user-attachments/assets/8cc74349-25b9-4dd9-9375-3e71c35a6f3a" />
+.
+<img width="1919" height="948" alt="nginx-Filebeat (3)" src="https://github.com/user-attachments/assets/c78c8f5d-fe35-4036-91cc-90835a7db7a7" />
+
+
