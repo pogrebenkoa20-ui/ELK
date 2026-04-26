@@ -46,7 +46,8 @@
 
 <img width="733" height="110" alt="logstash" src="https://github.com/user-attachments/assets/d267cc7d-eebb-4e15-99c3-b7f3e29a7b8e" />
 .
-<img width="733" height="110" alt="logstash" src="https://github.com/user-attachments/assets/7b3be919-852a-4892-8e07-ab9198bfc1d1" />
+<img width="955" height="345" alt="logstash status" src="https://github.com/user-attachments/assets/65ab160a-e45b-426c-af05-d9e41b4a8a97" />
+
 .
 <img width="1920" height="951" alt="logstash-nginx" src="https://github.com/user-attachments/assets/e56b492b-b93c-48c2-9fec-2d37f6bba237" />
 .
